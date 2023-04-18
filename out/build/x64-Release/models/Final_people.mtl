@@ -1,0 +1,50 @@
+# Blender MTL File: 'Testenv1.blend'
+# Material Count: 4
+
+newmtl 01_person
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 01_person_normal.jpeg
+map_Kd 01_person_baseColor.jpeg
+
+newmtl 02_person.001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 02_person_normal.jpeg
+map_Kd 02_person_baseColor.jpeg
+
+newmtl 03_person.001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.100000 0.100000 0.100000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 03_person_normal.jpeg
+map_Kd 03_person_baseColor.jpeg
+
+newmtl 04_person.001
+Ns 0.000000
+Ka 0.000000 0.000000 0.000000
+Kd 0.100000 0.100000 0.100000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump 04_person_normal.jpeg
+map_Kd 04_person_baseColor.jpeg
